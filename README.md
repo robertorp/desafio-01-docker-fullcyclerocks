@@ -29,3 +29,5 @@ A saída será similar a esta:
 REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
 robertorp/fullcycle latest              <image_id>          <creation_date>     1.75MB
 ```
+
+![Tamanho da Imagem](desafio%2001%20tamanho%20imagem.png)
