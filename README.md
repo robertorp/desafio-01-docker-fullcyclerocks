@@ -17,7 +17,7 @@ docker run robertorp/fullcycle
 
 ## Tamanho da Imagem
 
-A imagem Docker `robertorp/fullcycle` tem apenas 1.74 MB. Você pode verificar o tamanho da imagem utilizando o comando abaixo:
+A imagem Docker `robertorp/fullcycle` tem apenas 1.75 MB. Você pode verificar o tamanho da imagem utilizando o comando abaixo:
 
 ```sh
 docker images robertorp/fullcycle
@@ -27,5 +27,5 @@ A saída será similar a esta:
 
 ```
 REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
-robertorp/fullcycle latest              <image_id>          <creation_date>     1.74MB
+robertorp/fullcycle latest              <image_id>          <creation_date>     1.75MB
 ```
